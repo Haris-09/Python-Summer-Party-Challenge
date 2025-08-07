@@ -13,3 +13,7 @@ You are a Product Analyst on the Amazon Sponsored Advertising team investigating
 ### Day 3 of Python Summer Party
 #### Disney Parks Guest Spending Behavior
 You are a data analyst working with the Disney Parks revenue team to understand nuanced guest spending patterns across different park experiences. The team wants to develop a comprehensive view of visitor purchasing behaviors. Your goal is to uncover meaningful insights that can drive personalized marketing strategies.
+
+### Day 4 of Python Summer Party
+#### Search Results Page: User Interaction Patterns
+You are a Product Analyst on the Google Search team investigating user engagement with search result pages. The team wants to understand how different numbers of search results impact user interaction time. Your analysis will help optimize the current search results presentation strategy.
