@@ -17,3 +17,7 @@ You are a data analyst working with the Disney Parks revenue team to understand 
 ### Day 4 of Python Summer Party
 #### Search Results Page: User Interaction Patterns
 You are a Product Analyst on the Google Search team investigating user engagement with search result pages. The team wants to understand how different numbers of search results impact user interaction time. Your analysis will help optimize the current search results presentation strategy.
+
+### Day 5 of Python Summer Party
+#### Switch 2 Pre-sales Demand Forecasting
+You are a Product Analyst working with the Nintendo Switch 2 pre-sales team to analyze regional pre-order patterns and customer segmentation. Your team needs to understand how different demographics influence pre-sale volumes across regions. You will leverage historical pre-sale transaction data to extract meaningful insights that can guide marketing strategies.
