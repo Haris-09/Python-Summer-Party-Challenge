@@ -21,3 +21,7 @@ You are a Product Analyst on the Google Search team investigating user engagemen
 ### Day 5 of Python Summer Party
 #### Switch 2 Pre-sales Demand Forecasting
 You are a Product Analyst working with the Nintendo Switch 2 pre-sales team to analyze regional pre-order patterns and customer segmentation. Your team needs to understand how different demographics influence pre-sale volumes across regions. You will leverage historical pre-sale transaction data to extract meaningful insights that can guide marketing strategies.
+
+### Day 6 of Python Summer Party
+#### Ice Cream Sales Seasonal Performance Assessment
+You are a Product Insights Analyst working with the Ben & Jerry's sales strategy team to investigate seasonal sales patterns through comprehensive data analysis. The team wants to understand how temperature variations and unique transaction characteristics impact ice cream sales volume. Your goal is to perform detailed data cleaning and exploratory analysis to uncover meaningful insights about seasonal sales performance.
