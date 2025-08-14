@@ -25,3 +25,7 @@ You are a Product Analyst working with the Nintendo Switch 2 pre-sales team to a
 ### Day 6 of Python Summer Party
 #### Ice Cream Sales Seasonal Performance Assessment
 You are a Product Insights Analyst working with the Ben & Jerry's sales strategy team to investigate seasonal sales patterns through comprehensive data analysis. The team wants to understand how temperature variations and unique transaction characteristics impact ice cream sales volume. Your goal is to perform detailed data cleaning and exploratory analysis to uncover meaningful insights about seasonal sales performance.
+
+### Day 7 of Python Summer Party
+#### Celebrity Product Drops Sales Performance Analysis
+You are a Product Analyst working on Nike's marketing performance team. Your team wants to evaluate the effectiveness of celebrity product collaborations by analyzing sales data. You will investigate the performance of celebrity product drops to inform future marketing strategies.
