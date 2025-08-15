@@ -37,3 +37,7 @@ You are a Product Analyst for the Lululemon Online Store team investigating how 
 ### Day 9 of the Python Summer Party
 #### Instagram Stories Daily User Creation Patterns
 You are a Product Analyst on the Instagram Stories team investigating story creation patterns. The team wants to understand the distribution of stories created by users daily. You will analyze user storytelling behavior to optimize engagement strategies.
+
+### Day 10 of the Python Summer Party
+#### App Store Ratings Performance by App Category
+You are a Product Analyst for the Apple App Store team investigating app ratings data. Your focus is to clean and understand rating distributions across different app categories. The team wants to leverage basic statistical insights to guide app performance strategies.
