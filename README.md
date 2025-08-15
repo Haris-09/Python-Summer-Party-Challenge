@@ -29,3 +29,11 @@ You are a Product Insights Analyst working with the Ben & Jerry's sales strategy
 ### Day 7 of Python Summer Party
 #### Celebrity Product Drops Sales Performance Analysis
 You are a Product Analyst working on Nike's marketing performance team. Your team wants to evaluate the effectiveness of celebrity product collaborations by analyzing sales data. You will investigate the performance of celebrity product drops to inform future marketing strategies.
+
+### Day 8 of the Python Summer Party
+#### Payment Method Impact on Athleisure Online Sales
+You are a Product Analyst for the Lululemon Online Store team investigating how alternative payment methods might influence sales performance. The team wants to understand the potential impact of introducing a new installment payment option. Your analysis will predict sales lift and customer conversion for the proposed payment method.
+
+### Day 9 of the Python Summer Party
+#### Instagram Stories Daily User Creation Patterns
+You are a Product Analyst on the Instagram Stories team investigating story creation patterns. The team wants to understand the distribution of stories created by users daily. You will analyze user storytelling behavior to optimize engagement strategies.
