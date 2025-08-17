@@ -41,3 +41,7 @@ You are a Product Analyst on the Instagram Stories team investigating story crea
 ### Day 10 of the Python Summer Party
 #### App Store Ratings Performance by App Category
 You are a Product Analyst for the Apple App Store team investigating app ratings data. Your focus is to clean and understand rating distributions across different app categories. The team wants to leverage basic statistical insights to guide app performance strategies.
+
+### Day 11 of Python Summer Party
+#### Payment Fraud Risk Detection in Online Transactions
+You are a data analyst in Stripe's risk management team investigating transaction patterns to identify potential fraud. The team needs to develop a systematic approach to screen transactions for financial risks. Your goal is to create an initial risk assessment methodology using transaction characteristics.
