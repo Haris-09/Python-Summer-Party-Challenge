@@ -45,3 +45,7 @@ You are a Product Analyst for the Apple App Store team investigating app ratings
 ### Day 11 of Python Summer Party
 #### Payment Fraud Risk Detection in Online Transactions
 You are a data analyst in Stripe's risk management team investigating transaction patterns to identify potential fraud. The team needs to develop a systematic approach to screen transactions for financial risks. Your goal is to create an initial risk assessment methodology using transaction characteristics.
+
+### Day 12 of Python Summer Party
+#### E-commerce Returns Customer Segmentation Model
+You are a Data Analyst on the Walmart.com Insights team investigating customer return patterns. The team aims to develop a predictive approach to understanding customer return behaviors across different time periods. Your goal is to leverage transaction data to create a comprehensive view of customer return likelihood.
