@@ -49,3 +49,7 @@ You are a data analyst in Stripe's risk management team investigating transactio
 ### Day 12 of Python Summer Party
 #### E-commerce Returns Customer Segmentation Model
 You are a Data Analyst on the Walmart.com Insights team investigating customer return patterns. The team aims to develop a predictive approach to understanding customer return behaviors across different time periods. Your goal is to leverage transaction data to create a comprehensive view of customer return likelihood.
+
+### Day 13 of Python Summer Party
+#### New Milkshake Flavor Selection for Launch
+You are a Product Analyst working with the Shake Shack R&D team to evaluate customer ratings for experimental milkshake flavors. Your team has collected ratings data from a small sampling test. Your task is to systematically analyze and clean the ratings data to identify top-performing flavors.
