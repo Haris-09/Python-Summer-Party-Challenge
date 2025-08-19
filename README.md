@@ -53,3 +53,7 @@ You are a Data Analyst on the Walmart.com Insights team investigating customer r
 ### Day 13 of Python Summer Party
 #### New Milkshake Flavor Selection for Launch
 You are a Product Analyst working with the Shake Shack R&D team to evaluate customer ratings for experimental milkshake flavors. Your team has collected ratings data from a small sampling test. Your task is to systematically analyze and clean the ratings data to identify top-performing flavors.
+
+### Day 14 of Python Summer Party
+#### Loyalty Program's Impact on Transaction Patterns
+You are a Business Analyst on the Starbucks Rewards team investigating customer transaction behavior. Your team wants to understand how loyalty program membership influences purchasing patterns. The goal is to compare transaction metrics between loyalty members and non-members.
