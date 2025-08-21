@@ -57,3 +57,7 @@ You are a Product Analyst working with the Shake Shack R&D team to evaluate cust
 ### Day 14 of Python Summer Party
 #### Loyalty Program's Impact on Transaction Patterns
 You are a Business Analyst on the Starbucks Rewards team investigating customer transaction behavior. Your team wants to understand how loyalty program membership influences purchasing patterns. The goal is to compare transaction metrics between loyalty members and non-members.
+
+### Day 15 of Python Summer Party
+#### UberPool Driver Earnings Optimization Strategies
+You are a Business Analyst on the Uber Pool Product Team working to optimize driver compensation. The team aims to understand how trip characteristics impact driver earnings. Your goal is to develop data-driven recommendations that maximize driver earnings potential.
